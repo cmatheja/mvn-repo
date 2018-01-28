@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 28 22:17:02 CET 2018
+@default-soot-snapshot-https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/.lastUpdated=1517174222494
+https\://raw.githubusercontent.com/cmatheja/mvn-repo/master/.lastUpdated=1517174222454
+https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-release/.lastUpdated=1517174222722
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517174222582
+https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/.error=Could not transfer artifact ca.mcgill.sable\:java_cup\:pom\:0.9.2 from/to soot-snapshot (https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/)\: Failed to transfer file\: https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/ca/mcgill/sable/java_cup/0.9.2/java_cup-0.9.2.pom. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 0.9.2.
+https\://raw.githubusercontent.com/cmatheja/mvn-repo/master/.error=
+https\://repo.maven.apache.org/maven2/.error=

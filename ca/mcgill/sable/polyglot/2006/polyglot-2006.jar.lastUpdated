@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 28 22:17:06 CET 2018
+@default-soot-snapshot-https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/.lastUpdated=1517174225844
+https\://raw.githubusercontent.com/cmatheja/mvn-repo/master/.lastUpdated=1517174225805
+https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-release/.lastUpdated=1517174226271
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517174225929
+https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/.error=Could not transfer artifact ca.mcgill.sable\:polyglot\:jar\:2006 from/to soot-snapshot (https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/)\: Failed to transfer file\: https\://soot-build.cs.uni-paderborn.de/nexus/repository/soot-snapshot/ca/mcgill/sable/polyglot/2006/polyglot-2006.jar. Return code is\: 400 , ReasonPhrase\:Repository version policy\: SNAPSHOT does not allow version\: 2006.
+https\://raw.githubusercontent.com/cmatheja/mvn-repo/master/.error=
+https\://repo.maven.apache.org/maven2/.error=
