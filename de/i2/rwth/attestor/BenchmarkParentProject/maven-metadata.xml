@@ -4,8 +4,8 @@
   <artifactId>BenchmarkParentProject</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180131121059</lastUpdated>
+    <lastUpdated>20180201000533</lastUpdated>
   </versioning>
 </metadata>
