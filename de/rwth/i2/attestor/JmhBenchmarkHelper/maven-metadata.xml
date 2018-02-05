@@ -4,8 +4,8 @@
   <artifactId>JmhBenchmarkHelper</artifactId>
   <versioning>
     <versions>
-      <version>0.3.0-SNAPSHOT</version>
+      <version>0.3.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180201000640</lastUpdated>
+    <lastUpdated>20180205095218</lastUpdated>
   </versioning>
 </metadata>
